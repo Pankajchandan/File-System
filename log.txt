@@ -1,3 +1,23 @@
 action: File cool.txt modified at 2017-09-16.20:37:18
 trying to view a non existant fileaction: file names viewed at 2017-09-16.20:59:17
 action: file names viewed at 2017-09-16.20:59:44
+action: file names viewed at 2017-09-22.13:59:30
+action: file names viewed at 2017-09-22.13:59:53
+action: file names viewed at 2017-10-06.20:35:18
+action: file names viewed at 2017-10-06.22:18:15
+action: file names viewed at 2017-10-06.22:30:08
+action: file names viewed at 2017-10-13.19:04:54
+action: file names viewed at 2017-10-13.19:05:09
+action: file names viewed at 2017-10-13.19:05:21
+action: file names viewed at 2017-10-13.19:05:53
+action: file names viewed at 2017-10-13.19:08:05
+action: file names viewed at 2017-10-13.19:09:05
+action: trying to remove a non existant file at 2017-10-13.20:09:07
+action: trying to remove a non existant file at 2017-10-13.20:12:27
+action: file names viewed at 2017-10-13.20:28:56
+action: File new.txt deleted at 2017-10-13.20:34:05
+action: file names viewed at 2017-10-13.20:34:38
+action: file names viewed at 2017-10-13.20:38:33
+action: File new.txt created at 2017-10-13.20:39:01
+action: file names viewed at 2017-10-13.20:39:09
+action: File new.txt deleted at 2017-10-13.20:41:17
