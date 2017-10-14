@@ -21,3 +21,24 @@ action: file names viewed at 2017-10-13.20:38:33
 action: File new.txt created at 2017-10-13.20:39:01
 action: file names viewed at 2017-10-13.20:39:09
 action: File new.txt deleted at 2017-10-13.20:41:17
+action: file names viewed at 2017-10-14.13:13:45
+action: File hello.txt created at 2017-10-14.13:29:12
+action: file names viewed at 2017-10-14.13:29:24
+action: trying to view a non existant file at 2017-10-14.13:29:44
+action: File hello.txt deleted at 2017-10-14.13:33:02
+action: File hello.txt created at 2017-10-14.13:33:35
+action: File hello.txt deleted at 2017-10-14.13:34:50
+action: File hello.txt created at 2017-10-14.13:35:30
+action: File hello.txt deleted at 2017-10-14.13:41:43
+action: File hello.txt created at 2017-10-14.13:42:18
+action: File hello.txt deleted at 2017-10-14.13:43:00
+action: File hello.txt created at 2017-10-14.13:44:13
+action: File hello.txt created at 2017-10-14.13:48:01
+action: File hello.txt deleted at 2017-10-14.13:48:44
+action: File hello.txt created and contents written at 2017-10-14.13:51:33
+action: file names viewed at 2017-10-14.13:53:22
+action: File hello.txt modified at 2017-10-14.14:00:06
+action: File hello.txt modified at 2017-10-14.14:00:46
+action: File hello.txt modified at 2017-10-14.14:01:26
+action: file names viewed at 2017-10-14.14:01:55
+action: file names viewed at 2017-10-14.14:08:38

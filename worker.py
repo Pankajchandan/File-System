@@ -39,8 +39,8 @@ def readfile(child):
     if option is "1":
         tf = line[2]
         timestamp = line[3]
-        filename = open(file1,"w")
-        if tf is "true":
+        filename = open(file1,"w+")
+        if tf == "true":
             text = command_file.read()
             filename.write(text)
             update_child(child,"File Created and Written into!!")
