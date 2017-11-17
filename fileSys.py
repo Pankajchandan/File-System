@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[9]:
-
-
 import time
 import os
 from worker import readfile
@@ -11,26 +5,14 @@ from threading import Thread
 from Tkinter import *
 from tkinter.scrolledtext import ScrolledText
 
-
-# In[10]:
-
-
 ##method to return current date and time
 def CurrentDateTime():
     return time.strftime("%Y-%m-%d.%H:%M:%S")
-
-
-# In[11]:
-
 
 def return_fake(w):
     global global_var
     global_var=True
     return 1
-
-
-# In[12]:
-
 
 def update_child_with_return_text(child,textline):
     global global_var
@@ -49,9 +31,6 @@ def update_child_with_return_text(child,textline):
     return w.get("1.0",'end-1c')
 
 
-# In[13]:
-
-
 def update_child_with_return(child,textline):
     global global_var
     msg=Label(child,text=textline)
@@ -67,9 +46,6 @@ def update_child_with_return(child,textline):
     
     global_var=False
     return w.get()
-
-
-# In[14]:
 
 
 ##main method for user interaction
@@ -116,17 +92,11 @@ def task(choice,child):
     return 0
 
 
-# In[15]:
-
-
 def act():
     child = Tk(className ="child Window")
     thread_task = Thread(target = task, args = (choiceValue.get(),child))
     thread_task.start()
     child.mainloop() ##statrt child mainloop
-
-
-# In[16]:
 
 
 global_var = False

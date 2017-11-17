@@ -1,32 +1,16 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 import time
 import os
 from Tkinter import *
-
-
-# In[2]:
-
 
 ##method to return current date and time
 def CurrentDateTime():
     return time.strftime("%Y-%m-%d.%H:%M:%S")
 
 
-# In[3]:
-
-
 def update_child(child,textline):
     msg=Label(child,text=textline)
     msg.pack() 
     child.update()
-
-
-# In[5]:
 
 
 ##daemon function
@@ -85,10 +69,4 @@ def readfile(child):
         log_file.write("action: file names viewed at "+ CurrentDateTime()+"\n")
     else:
         update_child(child,"What the hell happened!!")  
-
-
-# In[ ]:
-
-
-
 
